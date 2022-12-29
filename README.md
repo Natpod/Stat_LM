@@ -8,4 +8,4 @@ The code in this repository `DAT4LogRRoc.R`
 2. Performs risk analysis on a single variable `Mutation`over `status`
 3. Trains a Logistic Model with 3-Fold cross validation and plots the ROC curve
 
-Dependencies : MASS, ROCR, caret
+Package Dependencies : MASS, ROCR, pROC, caret, skimr, dplyr
